@@ -32,4 +32,6 @@ Error 3 occurs whenever you mistype the path to your flash drive. Carefully rere
 Try closing all running programs.
 After you do that, run the following command in the Command Prompt as an admin: dism /Unmount-Wim /MountDir:"%HOMEDRIVE%/diskdoctor_temp/" /discard & rmdir "%HOMEDRIVE%/diskdoctor_temp"
 
-
+# To-do list
+- Add better WIM compression to save space (medium-priority)
+- Add cross-platform support (low-priority)
