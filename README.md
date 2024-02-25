@@ -23,7 +23,7 @@ Finally, press any key to close the wizard. Your Disk Doctor flash drive has bee
 Error 740 is caused by not running the Disk Doctor Upgrade Utility as an admin. Carefully reread the prior section and try again.
 
 <h2>Fixing  and Error: 0xc1420114</h2>
-Go to your root directory (usually `C:/` on Windows) and delete the folder named `diskdoctor_temp`.
+Go to your root directory (usually C:/ on Windows) and delete the folder named diskdoctor_temp.
 
 <h2>Fixing Error 3</h2>
 Error 3 occurs whenever you mistype the path to your flash drive. Carefully reread the prior section and try again.
