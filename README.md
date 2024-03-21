@@ -12,7 +12,7 @@ Afterwards, run `upgrade.bat` as an administrator on a Windows machine (Windows 
 
 Then, press any key to begin the upgrade wizard.
 
-Type in the drive letter for your Disk Doctor flash drive, followed by a colon (no spaces). For example, drive letter D would be typed as `D:` in the wizard.
+Type in the drive letter for your Disk Doctor flash drive, followed by a colon (no spaces), and then press `ENTER` or `RETURN` on your keyboard. For example, drive letter D would be typed as `D:` in the wizard.
 
 Next, sit back and relax while the utility performs the upgrade to Disk Doctor 2.1. This should take less than a minute.
 
