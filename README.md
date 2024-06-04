@@ -5,6 +5,11 @@ Some non-Mojavesoft approved modifications that have been applied under earlier 
 
 Disclaimer: We are NOT responsible for any damages caused by misusage of this utility.
 
+# A note about compression and the law
+If you wish to perform various advanced optimizations on Disk Doctor after performing upgrades (these optimizations will save ~5 megabytes of storage), please download https://wimlib.net/downloads/wimlib-1.14.4-windows-i686-bin.zip and extract it into a directory called `wimlib32` in the same directory that houses `upgrade.bat`.
+
+`upgrade.bat` will automatically detect and use `wimlib32` after performing all requested upgrades.
+
 # Using the Disk Doctor Upgrade Utility
 Download the Disk Doctor Upgrade Utility from the Releases tab, and decompress the downloaded ZIP archive.
 
