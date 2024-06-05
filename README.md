@@ -17,7 +17,7 @@ Then, press any key to begin the upgrade wizard.
 
 Type in the drive letter for your Disk Doctor flash drive, followed by a colon (no spaces), and then press `ENTER` or `RETURN` on your keyboard. For example, drive letter D would be typed as `D:` in the wizard.
 
-Next, sit back and relax while the utility performs the upgrade to Disk Doctor 2.1. This should take less than a minute.
+Next, sit back and relax while the utility performs the upgrade to the latest version of Disk Doctor 2.1. This should take less than a minute.
 
 Finally, press any key to close the wizard. Your Disk Doctor flash drive has been upgraded successfully.
 
@@ -25,7 +25,7 @@ Finally, press any key to close the wizard. Your Disk Doctor flash drive has bee
 <h2>Fixing Error 740</h2>
 Error 740 is caused by not running the Disk Doctor Upgrade Utility as an admin. Carefully reread the prior section and try again.
 
-<h2>Fixing  and Error: 0xc1420114</h2>
+<h2>Fixing Error 0xc1420114</h2>
 Go to your root directory (usually C:/ on Windows) and delete the folder named diskdoctor_temp.
 
 <h2>Fixing Error 3</h2>
