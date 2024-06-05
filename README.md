@@ -6,7 +6,7 @@ Some non-Mojavesoft approved modifications that have been applied under earlier 
 Disclaimer: We are NOT responsible for any damages caused by misusage of this utility.
 
 # A note about compression (most people should read the next section and skip this one)
-In the future, Disk Doctor will perform optimizations after upgrading. However, this is low-priority and not currently functional.
+In the future, Disk Doctor will perform optimizations after upgrading; however, this is low-priority and not currently functional.
 
 # Using the Disk Doctor Upgrade Utility
 Download the Disk Doctor Upgrade Utility from the Releases tab, and decompress the downloaded ZIP archive.
